@@ -38,10 +38,12 @@ education:
 
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   position: Research Assistant
+  logo: assets/images/badges/hkustgz.png
   date: Sep. 2024 - Mar. 2025
 
 - name: University of Science and Technology of China
   position: B.S. in Information Security
+  logo: assets/images/badges/ustcblue.jpg
   date: Sep. 2020 - Jun. 2024
 
 
